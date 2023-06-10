@@ -37,3 +37,12 @@ This project is a simple shooting game implemented using OpenGL and GLUT librari
 - If a collision occurs, the game ends.
 - When the laser intersects with an enemy, that enemy is destroyed.
 - Once all three enemies are destroyed, the player wins the game.
+## Pictures:
+
+![1](https://github.com/JawadMohmmad06/Shooting-Game/assets/96438779/5c775a23-0998-4dac-8d78-9e9b300a211a)
+
+
+![2](https://github.com/JawadMohmmad06/Shooting-Game/assets/96438779/ca643758-fc87-4dec-9f97-9c38fba6ac0f)
+
+![3](https://github.com/JawadMohmmad06/Shooting-Game/assets/96438779/a1a37a39-1899-460c-bd45-e21641bf076f)
+
